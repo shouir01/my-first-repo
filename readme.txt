@@ -6,4 +6,3 @@ It's windy outside today
 =======
 It's cloudy outside today.
 >>>>>>> update-readme
-A new test feature added.
